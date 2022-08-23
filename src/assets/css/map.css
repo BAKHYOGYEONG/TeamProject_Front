@@ -1,0 +1,75 @@
+.map {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    position: relative;
+}
+
+.map__image {
+    margin: 0;
+}
+
+.map__image-fullscreen {
+    object-fit: contain;
+    width: 100%;
+}
+
+.map__course_button {
+    background-size: contain;
+    width: 95px;
+    position: absolute;
+}
+
+.map__course_button-one {
+    top: 165px;
+    right: 20.4%;
+}
+
+.map__course_button-two {
+    bottom: 36%;
+    right: 34.8%;
+}
+
+.map__course_button-three {
+    bottom: 23.5%;
+    right: 39.4%;
+}
+
+.map__course_button-four {
+    bottom: 20.5%;
+    left: 34.2%;
+}
+
+.map__course_button-five {
+    bottom: 29.2%;
+    left: 27.5%;
+}
+
+.map__course_button-six {
+    top: 46%;
+    left: 35.6%;
+}
+
+.map__course_button-seven {
+    top: 23%;
+    left: 44.8%;
+}
+
+.map__course_button-eight {
+    top: 41.2%;
+    right: 35.6%;
+}
+
+.map__course_button-nine {
+    top: 20.2%;
+    right: 30.3%;
+}
+
+.map__course_button:hover {
+    width: 120px;
+}
+
+.main_course_slc {
+    padding: 0;
+}

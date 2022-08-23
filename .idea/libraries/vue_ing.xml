@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vue_ing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vue_ing.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
